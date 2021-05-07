@@ -20,7 +20,7 @@ locale: en-US
 title: "Awesome Learning"
 description: "Digging through new stuff everyday"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: https://awesome-learning.github.io"
+url: https://awesome-learning.github.io
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
